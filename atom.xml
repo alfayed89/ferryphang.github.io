@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Ferry]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-01-23T15:56:02+07:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://ferryphang.github.io/atom.xml" rel="self"/>
+  <link href="http://ferryphang.github.io/"/>
+  <updated>2014-01-23T16:02:56+07:00</updated>
+  <id>http://ferryphang.github.io/</id>
   <author>
     <name><![CDATA[Ferry Pangestu]]></name>
     
